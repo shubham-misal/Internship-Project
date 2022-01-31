@@ -9,7 +9,7 @@ My internship project, the website provides RTO services.
 </h1>
 <h2>
   Visit:-
-<a href="https://shreesainathautoconsultant.000webhostapp.com/index.html" target="_blank" >https://shreesainathautoconsultant.000webhostapp.com/index.html</a>
+<a href="https://shreesainathautoconsultant.000webhostapp.com" target="_blank" >https://shreesainathautoconsultant.000webhostapp.com</a>
 </h2>
 <hr>
 <h1>USER-INTERFACE</h1>
