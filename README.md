@@ -11,7 +11,7 @@ My internship project, the website provides RTO services.
 </h2>
 <hr>
 <h1>USER-INTERFACE</h1>
-<img src="homepage.png" style="border:3px solid lightgreen !important;">
+<img src="home.png" style="border:3px solid lightgreen !important;">
 <img src="services.png" style="border:3px solid lightgreen !important;">
 <img src="about.png" style="border:3px solid lightgreen !important;">
 <hr>
