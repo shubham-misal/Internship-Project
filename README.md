@@ -1,8 +1,10 @@
 <div align="center" >
-  <img src="brandLogoogg1.png" style="height:200px;width:200px;"><br>
+  <img src="brandLogoogg1.png" style="height:200px;width:200px;">
 </div>
+<h1 align="center">
+  WEB-DEVELOPMENT
+  </h1>
 <h1>
-  WEB-DEVELOPMENT<br>
 My internship project, the website provides RTO services.
 </h1>
 <h2>
@@ -11,8 +13,10 @@ My internship project, the website provides RTO services.
 </h2>
 <hr>
 <h1>USER-INTERFACE</h1>
-<img src="home.png" style="border:3px solid lightgreen !important;">
-<img src="services.png" style="border:3px solid lightgreen !important;">
-<img src="about.png" style="border:3px solid lightgreen !important;">
+<img src="home.png" alt="homepage" title="homepage">
+<img src="services.png" alt="rtoservicespage" title="rtoservicespage">
+<img src="about.png" alt="aboutpage" title="aboutpage">
+<img src="f1.png" alt="fotter" title="fotter" >
+<img src="f2.png" alt="fotter" title="fotter">
 <hr>
 <h2>You can Download the code 👆 from the ZIP FILE uploaded (Rto Project.zip)</h2>
