@@ -10,7 +10,7 @@ My internship project, the website provides RTO services.
 <a href="https://shreesainathautoconsultant.000webhostapp.com/index.html" target="_blank" >https://shreesainathautoconsultant.000webhostapp.com/index.html</a>
 </h2>
 <hr>
-<h1>UserInterface</h1>
+<h1>USER-INTERFACE</h1>
 <img src="homepage.png" style="border:3px solid lightgreen !important;">
 <img src="services.png" style="border:3px solid lightgreen !important;">
 <img src="about.png" style="border:3px solid lightgreen !important;">
